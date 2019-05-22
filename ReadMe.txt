@@ -1,0 +1,1 @@
+Issues about localization in seperate project.

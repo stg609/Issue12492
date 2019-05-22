@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\WebApplication8\ClassLibrary2\bin\Debug\netcoreapp2.2\ClassLibrary2.deps.json
+C:\Users\DELL\source\repos\WebApplication8\ClassLibrary2\bin\Debug\netcoreapp2.2\ClassLibrary2.dll
+C:\Users\DELL\source\repos\WebApplication8\ClassLibrary2\bin\Debug\netcoreapp2.2\ClassLibrary2.pdb
+C:\Users\DELL\source\repos\WebApplication8\ClassLibrary2\bin\Debug\netcoreapp2.2\en-US\ClassLibrary2.resources.dll
+C:\Users\DELL\source\repos\WebApplication8\ClassLibrary2\obj\Debug\netcoreapp2.2\ClassLibrary2.Resources.Controllers.HomeController.en-US.resources
+C:\Users\DELL\source\repos\WebApplication8\ClassLibrary2\obj\Debug\netcoreapp2.2\ClassLibrary2.Resources.Views.Home.Index.en-US.resources
+C:\Users\DELL\source\repos\WebApplication8\ClassLibrary2\obj\Debug\netcoreapp2.2\ClassLibrary2.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\WebApplication8\ClassLibrary2\obj\Debug\netcoreapp2.2\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\WebApplication8\ClassLibrary2\obj\Debug\netcoreapp2.2\ClassLibrary2.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\WebApplication8\ClassLibrary2\obj\Debug\netcoreapp2.2\ClassLibrary2.AssemblyInfo.cs
+C:\Users\DELL\source\repos\WebApplication8\ClassLibrary2\obj\Debug\netcoreapp2.2\en-US\ClassLibrary2.resources.dll
+C:\Users\DELL\source\repos\WebApplication8\ClassLibrary2\obj\Debug\netcoreapp2.2\ClassLibrary2.dll
+C:\Users\DELL\source\repos\WebApplication8\ClassLibrary2\obj\Debug\netcoreapp2.2\ClassLibrary2.pdb
